@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/gargrajesh009/react-portfolio-master/static/css/main.77d1d872.css",
-    "main.js": "/gargrajesh009/react-portfolio-master/static/js/main.aa64a600.js",
+    "main.js": "/gargrajesh009/react-portfolio-master/static/js/main.f4dba1bc.js",
     "static/js/453.b05d8aa5.chunk.js": "/gargrajesh009/react-portfolio-master/static/js/453.b05d8aa5.chunk.js",
     "static/media/ooklass-home.png": "/gargrajesh009/react-portfolio-master/static/media/ooklass-home.2237f5fafcb96ce924b8.png",
     "static/media/bg-light.png": "/gargrajesh009/react-portfolio-master/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/bg-dark.png": "/gargrajesh009/react-portfolio-master/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/az099.png": "/gargrajesh009/react-portfolio-master/static/media/az099.1b3dc60f526e0425ac85.png",
     "static/media/dankseBank.jpg": "/gargrajesh009/react-portfolio-master/static/media/dankseBank.428e115821c4b39af1a2.jpg",
     "static/media/bw_Rajesh.jpg": "/gargrajesh009/react-portfolio-master/static/media/bw_Rajesh.a6961d25f24d3eecf563.jpg",
     "index.html": "/gargrajesh009/react-portfolio-master/index.html",
     "main.77d1d872.css.map": "/gargrajesh009/react-portfolio-master/static/css/main.77d1d872.css.map",
-    "main.aa64a600.js.map": "/gargrajesh009/react-portfolio-master/static/js/main.aa64a600.js.map",
+    "main.f4dba1bc.js.map": "/gargrajesh009/react-portfolio-master/static/js/main.f4dba1bc.js.map",
     "453.b05d8aa5.chunk.js.map": "/gargrajesh009/react-portfolio-master/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77d1d872.css",
-    "static/js/main.aa64a600.js"
+    "static/js/main.f4dba1bc.js"
   ]
 }
