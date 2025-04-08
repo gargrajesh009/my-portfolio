@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-portfolio-master/static/css/main.ce5ecfc0.css",
-    "main.js": "/react-portfolio-master/static/js/main.a472d1d0.js",
-    "static/js/453.b05d8aa5.chunk.js": "/react-portfolio-master/static/js/453.b05d8aa5.chunk.js",
-    "static/media/ooklass-home.png": "/react-portfolio-master/static/media/ooklass-home.2237f5fafcb96ce924b8.png",
-    "static/media/bg-light.png": "/react-portfolio-master/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark.png": "/react-portfolio-master/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/az099.png": "/react-portfolio-master/static/media/az099.1b3dc60f526e0425ac85.png",
-    "static/media/dankseBank.jpg": "/react-portfolio-master/static/media/dankseBank.428e115821c4b39af1a2.jpg",
-    "static/media/bw_Rajesh.jpg": "/react-portfolio-master/static/media/bw_Rajesh.a6961d25f24d3eecf563.jpg",
-    "index.html": "/react-portfolio-master/index.html",
-    "main.ce5ecfc0.css.map": "/react-portfolio-master/static/css/main.ce5ecfc0.css.map",
-    "main.a472d1d0.js.map": "/react-portfolio-master/static/js/main.a472d1d0.js.map",
-    "453.b05d8aa5.chunk.js.map": "/react-portfolio-master/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/my-portfolio/static/css/main.fc443ce3.css",
+    "main.js": "/my-portfolio/static/js/main.683ddb1d.js",
+    "static/js/453.b05d8aa5.chunk.js": "/my-portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/ooklass-home.png": "/my-portfolio/static/media/ooklass-home.2237f5fafcb96ce924b8.png",
+    "static/media/bg-light.png": "/my-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/my-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/az099.png": "/my-portfolio/static/media/az099.1b3dc60f526e0425ac85.png",
+    "static/media/dankseBank.jpg": "/my-portfolio/static/media/dankseBank.428e115821c4b39af1a2.jpg",
+    "static/media/bw_Rajesh.jpg": "/my-portfolio/static/media/bw_Rajesh.a6961d25f24d3eecf563.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.fc443ce3.css.map": "/my-portfolio/static/css/main.fc443ce3.css.map",
+    "main.683ddb1d.js.map": "/my-portfolio/static/js/main.683ddb1d.js.map",
+    "453.b05d8aa5.chunk.js.map": "/my-portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce5ecfc0.css",
-    "static/js/main.a472d1d0.js"
+    "static/css/main.fc443ce3.css",
+    "static/js/main.683ddb1d.js"
   ]
 }
