@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.fc443ce3.css",
-    "main.js": "/my-portfolio/static/js/main.683ddb1d.js",
+    "main.css": "/my-portfolio/static/css/main.f5abf269.css",
+    "main.js": "/my-portfolio/static/js/main.39253196.js",
     "static/js/453.b05d8aa5.chunk.js": "/my-portfolio/static/js/453.b05d8aa5.chunk.js",
     "static/media/ooklass-home.png": "/my-portfolio/static/media/ooklass-home.2237f5fafcb96ce924b8.png",
     "static/media/bg-light.png": "/my-portfolio/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/bg-dark.png": "/my-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/casehandling.png": "/my-portfolio/static/media/casehandling.8d72c86f404fb1d37659.png",
+    "static/media/matrix.jpg": "/my-portfolio/static/media/matrix.0bc7a502e0c66da4e06c.jpg",
     "static/media/az099.png": "/my-portfolio/static/media/az099.1b3dc60f526e0425ac85.png",
-    "static/media/dankseBank.jpg": "/my-portfolio/static/media/dankseBank.428e115821c4b39af1a2.jpg",
+    "static/media/dashboard2.0.png": "/my-portfolio/static/media/dashboard2.0.2bc62069e713d092e509.png",
     "static/media/bw_Rajesh.jpg": "/my-portfolio/static/media/bw_Rajesh.a6961d25f24d3eecf563.jpg",
+    "static/media/dashboard.png": "/my-portfolio/static/media/dashboard.00c43975ad7ac629de30.png",
     "index.html": "/my-portfolio/index.html",
-    "main.fc443ce3.css.map": "/my-portfolio/static/css/main.fc443ce3.css.map",
-    "main.683ddb1d.js.map": "/my-portfolio/static/js/main.683ddb1d.js.map",
+    "main.f5abf269.css.map": "/my-portfolio/static/css/main.f5abf269.css.map",
+    "main.39253196.js.map": "/my-portfolio/static/js/main.39253196.js.map",
     "453.b05d8aa5.chunk.js.map": "/my-portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc443ce3.css",
-    "static/js/main.683ddb1d.js"
+    "static/css/main.f5abf269.css",
+    "static/js/main.39253196.js"
   ]
 }
