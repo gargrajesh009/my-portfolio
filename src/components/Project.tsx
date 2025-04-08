@@ -1,8 +1,12 @@
 import React from "react";
 import "../assets/styles/Project.scss";
 import ooklass from "../assets/images/ooklass-home.png";
-import danskeBank from "../assets/images/dankseBank.jpg";
-import ma from "../assets/images/mossadams.png";
+import dash1 from "../assets/images/dashboard.png";
+import dash2 from "../assets/images/dashboard2.0.png";
+import casehandling from "../assets/images/casehandling.png";
+import matrix from "../assets/images/matrix.jpg";
+import { Badge, Chip, Tab } from "@mui/material";
+
 
 function Project() {
   return (
@@ -10,8 +14,9 @@ function Project() {
       <h1>Industry Projects</h1>
       <div className="projects-grid">
         <div className="project">
+        <Chip label="Danske Bank" color="primary" className="mb-1"/>
           <span>
-            <img src={danskeBank} className="zoom" alt="thumbnail" width="100%" />
+            <img src={casehandling} className="zoom" alt="thumbnail" width="100%" />
           </span>
           <span>
             <h2>Cobra</h2>
@@ -23,8 +28,9 @@ function Project() {
           <p><strong>TechStack: </strong>Angular 13, TypeScript, .Net Core , C#, MS SQL</p>
         </div>
         <div className="project">
+        <Chip label="Danske Bank" color="primary" className="mb-1"/>
           <span>
-            <img src={danskeBank} className="zoom" alt="thumbnail" width="100%" />
+            <img src={dash2} className="zoom" alt="thumbnail" width="100%" style={{height: "25rem"}}/>
           </span>
           <span>
             <h2>CH-PR Dashboard</h2>
@@ -36,8 +42,9 @@ function Project() {
           <p><strong>TechStack: </strong> ReactJs, JavaScript, C#, .Net Core, MS SQL</p>
         </div>
         <div className="project">
+        <Chip label="Danske Bank" color="primary" className="mb-1"/>
           <span>
-            <img src={danskeBank} className="zoom" alt="thumbnail" width="100%" />
+            <img src={dash1} className="zoom" alt="thumbnail" width="100%" style={{height: "25rem"}}/>
           </span>
           <span>
             <h2>Team-Lead Dashboard</h2>
@@ -49,8 +56,9 @@ function Project() {
           <p><strong>TechStack: </strong>Angular 13, TypeScript, .Net Core , C#, MS SQL</p>
         </div>
         <div className="project">
+        <Chip label="Moss Adams" color="success" className="mb-1"/>
           <span>
-            <img src={ma} className="zoom" alt="thumbnail" width="100%" />
+            <img src={matrix} className="zoom" alt="thumbnail" width="100%" style={{height: "25rem"}}/>
           </span>
           <span>
             <h2>Matrix</h2>
@@ -66,6 +74,7 @@ function Project() {
       <h1>Personal Projects</h1>
       <div className="projects-grid">
         <div className="project">
+        <Chip label="OOklass" color="secondary" className="mb-1"/>
           <a
             href="https://www.ooklass.in/"
             target="_blank"
