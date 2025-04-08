@@ -5,7 +5,7 @@ import dash1 from "../assets/images/dashboard.png";
 import dash2 from "../assets/images/dashboard2.0.png";
 import casehandling from "../assets/images/casehandling.png";
 import matrix from "../assets/images/matrix.jpg";
-import { Badge, Chip, Tab } from "@mui/material";
+import { Chip} from "@mui/material";
 
 
 function Project() {
@@ -16,7 +16,7 @@ function Project() {
         <div className="project">
         <Chip label="Danske Bank" color="primary" className="mb-1"/>
           <span>
-            <img src={casehandling} className="zoom" alt="thumbnail" width="100%" />
+            <img src={casehandling} className="zoom" alt="thumbnail" width="100%" style={{height: "20rem"}} />
           </span>
           <span>
             <h2>Cobra</h2>
@@ -30,7 +30,7 @@ function Project() {
         <div className="project">
         <Chip label="Danske Bank" color="primary" className="mb-1"/>
           <span>
-            <img src={dash2} className="zoom" alt="thumbnail" width="100%" style={{height: "25rem"}}/>
+            <img src={dash2} className="zoom" alt="thumbnail" width="100%" style={{height: "20rem"}}/>
           </span>
           <span>
             <h2>CH-PR Dashboard</h2>
@@ -44,7 +44,7 @@ function Project() {
         <div className="project">
         <Chip label="Danske Bank" color="primary" className="mb-1"/>
           <span>
-            <img src={dash1} className="zoom" alt="thumbnail" width="100%" style={{height: "25rem"}}/>
+            <img src={dash1} className="zoom" alt="thumbnail" width="100%" style={{height: "20rem"}}/>
           </span>
           <span>
             <h2>Team-Lead Dashboard</h2>
@@ -58,7 +58,7 @@ function Project() {
         <div className="project">
         <Chip label="Moss Adams" color="success" className="mb-1"/>
           <span>
-            <img src={matrix} className="zoom" alt="thumbnail" width="100%" style={{height: "25rem"}}/>
+            <img src={matrix} className="zoom" alt="thumbnail" width="100%" style={{height: "20rem"}}/>
           </span>
           <span>
             <h2>Matrix</h2>
