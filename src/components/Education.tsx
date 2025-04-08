@@ -1,4 +1,4 @@
-import { faSchool } from "@fortawesome/free-solid-svg-icons";
+import { faGraduationCap, faSchool } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
 import {
@@ -19,7 +19,7 @@ export default function Education() {
             contentArrowStyle={{ borderRight: "7px solid  white" }}
             date="Aug 2017 – Aug 2021"
             iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
-            icon={<FontAwesomeIcon icon={faSchool} />}
+            icon={<FontAwesomeIcon icon={faGraduationCap} />}
           >
             <h3 className="vertical-timeline-element-title">
               JSS Science and Technology University (SJCE)
